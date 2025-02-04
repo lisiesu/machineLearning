@@ -8,9 +8,9 @@ The main structure of this repository is as follows:
 
 ```
 machineLearning/
-│── projects/         # Contains individual machine learning projects
-│   ├── project1/     # Each project has its own folder
-│   ├── project2/
+│── Projects/         # Contains individual machine learning projects
+│   ├── Project_01/     # Each project has its own folder
+│   ├── Project_02/
 │   ├── ...
 ```
 
